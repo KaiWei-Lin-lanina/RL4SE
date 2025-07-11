@@ -3,11 +3,11 @@ This repository accompanies from our recent work, "A Survey of Reinforcement Lea
 >Reinforcement Learning (RL) has emerged as a powerful paradigm for sequential decision-making and has attracted growing interest across various domains, particularly following the advent of Deep Reinforcement Learning (DRL) in 2015. Simultaneously, the rapid advancement of Large Language Models (LLMs) has further fueled interest in integrating RL with LLMs to enable more adaptive and intelligent systems. In the field of software engineering (SE), the increasing complexity of systems and the rising demand for automation have motivated researchers to apply RL to a broad range of tasks, from software design and development to quality assurance and maintenance. Despite growing research in RL-for-SE, there remains a lack of a comprehensive and systematic survey of this evolving field. To address this gap, we reviewed 115 peer-reviewed studies published across 22 premier SE venues since the introduction of DRL. We conducted a comprehensive analysis of publication trends, categorized SE topics and RL techniques, and examined key factors such as dataset usage, model design and optimization, and evaluation practices. Furthermore, we identified open challenges and proposed future research directions to guide and inspire ongoing work in this evolving area. To summarize, this survey offers the first systematic mapping of RL applications in software engineering, aiming to support both researchers and practitioners in navigating the current landscape and advancing the field.
   
 ## Contents
-+ Software Design
-+ Software Development
-+ Software Maintenance
-+ Software Quality Assurance
-+ Software Quality Assurance + Software Management 
+- [Software Design](#software-design)
+- [Software Development](#software-development)
+- [Software Maintenance](#software-maintenance)
+- [Software Quality Assurance](#software-quality-assurance)
+- [Software Quality Assurance + Software Management](#software-quality-assurance--software-management)
 
 ## Papers
 *Software Design*
