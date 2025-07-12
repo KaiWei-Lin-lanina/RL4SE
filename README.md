@@ -1,4 +1,4 @@
-# RL4SE  
+# RL4SE  :video_game:
 This repository accompanies our recent work, "Reinforcement Learning Meets Software Engineering: A Comprehensive Survey".It provides supplementary materials for our study, including a dataset of relevant papers and manually labeled annotations. The focus is on the application of Reinforcement Learning (RL) to a broad range of Software Engineering (SE) tasks.  
 >Reinforcement Learning (RL) has emerged as a powerful paradigm for sequential decision-making and has attracted growing interest across various domains, particularly following the advent of Deep Reinforcement Learning (DRL) in 2015. Simultaneously, the rapid advancement of Large Language Models (LLMs) has further fueled interest in integrating RL with LLMs to enable more adaptive and intelligent systems. In the field of software engineering (SE), the increasing complexity of systems and the rising demand for automation have motivated researchers to apply RL to a broad range of tasks, from software design and development to quality assurance and maintenance. Despite growing research in RL-for-SE, there remains a lack of a comprehensive and systematic survey of this evolving field. To address this gap, we reviewed 115 peer-reviewed studies published across 22 premier SE venues since the introduction of DRL. We conducted a comprehensive analysis of publication trends, categorized SE topics and RL algorithms, and examined key factors such as dataset usage, model design and optimization, and evaluation practices. Furthermore, we identified open challenges and proposed future research directions to guide and inspire ongoing work in this evolving area. To summarize, this survey offers the first systematic mapping of RL applications in software engineering, aiming to support both researchers and practitioners in navigating the current landscape and advancing the field.
 
@@ -11,7 +11,7 @@ This repository accompanies our recent work, "Reinforcement Learning Meets Softw
 - [Software Quality Assurance + Software Management](#software-quality-assurance--software-management)
 
 ## Papers
-### *Software Design*
+### :large_orange_diamond: *Software Design*
 + **Actor-critic architecture based probabilistic meta-reinforcement learning for load balancing of controllers in software defined networks** (2022), ASEJ, Sharma, Ashish Tokekar, Sanjiv Varma, Sunita.
 + **Correctness-guaranteed strategy synthesis and compression for multi-agent autonomous systems** (2022), SCP, Gu, Rong Jensen, Peter G. Seceleanu, Cristina Enoiu, Eduard Lundqvist, Kristina.
 + **Effectively Modeling UI Transition Graphs for Android Apps via Reinforcement Learning** (2025), ICPC, Wunan Guo, Zhen Dong, Liwei Shen, Daihong Zhou, Bin Hu, Chen Zhang, Hai Xue.
@@ -20,7 +20,7 @@ This repository accompanies our recent work, "Reinforcement Learning Meets Softw
 + **FaaSConf: QoS-aware Hybrid Resources Configuration for Serverless Workflows** (2024), ASE, Wang, Yilun, Chen, Pengfei, Dou, Hui, Zhang, Yiwen, Yu, Guangba, He, Zilong, Huang, Haiyu.
 + **Proactive hybrid learning and optimisation in self-adaptive systems: The swarm-fleet infrastructure scenario** (2022), IST, Krupitzer, Christian Gruhl, Christian Sick, Bernhard Tomforde, Sven.
 
-### *Software Development*
+### :large_orange_diamond: *Software Development*
 + **Automatic web content personalization through reinforcement learning** (2016), JSS, Ferretti, Stefano Mirri, Silvia Prandi, Catia Salomoni, Paola.
 + **Deep Reinforcement Learning Guided Decision Tree Learning For Program Synthesis** (2023), SANER, M. Yang; D. Zhang.
 + **Dialogue Management for Interactive API Search** (2021), ICSME, Z. Eberhart; C. McMillan.
@@ -35,7 +35,7 @@ This repository accompanies our recent work, "Reinforcement Learning Meets Softw
 + **Stochastic energy optimization for mobile GPS applications** (2018), FSE, Canino, Anthony, Liu, Yu David, Masuhara, Hidehiko.
 + **Towards automatically generating block comments for code snippets** (2020), IST, Huang, Yuan Huang, Shaohao Chen, Huanchao Chen, Xiangping Zheng, Zibin Luo, Xiapu Jia, Nan Hu, Xinyu Zhou, Xiaocong.
 
-### *Software Maintenance*
+### :large_orange_diamond: *Software Maintenance*
 + **A DQN-based agent for automatic software refactoring** (2022), IST, Ahmadi, Hamidreza Ashtiani, Mehrdad Azgomi, Mohammad Abdollahi Saheb-Nassagh, Raana.
 + **Automatic Generation of Pull Request Descriptions** (2019), ASE, Liu, Zhongxin, Xia, Xin, Treude, Christoph, Lo, David, Li, Shanping.
 + **Automatically Reproducing Android Bug Reports using Natural Language Processing and Reinforcement Learning** (2023), ISSTA, Zhang, Zhaoxu, Winn, Robert, Zhao, Yu, Yu, Tingting, Halfond, William G.J..
@@ -48,7 +48,7 @@ This repository accompanies our recent work, "Reinforcement Learning Meets Softw
 + **Towards Efficient Fine-Tuning of Language Models With Organizational Data for Automated Software Review** (2024), TSE, Nashaat, Mona Miller, James.
 + **TraceDiag: Adaptive, Interpretable, and Efficient Root Cause Analysis on Large-Scale Microservice Systems** (2023), FSE, Ding, Ruomeng, Zhang, Chaoyun, Wang, Lu, Xu, Yong, Ma, Minghua, Wu, Xiaomin, Zhang, Meng, Chen, Qingjun, Gao, Xin, Gao, Xuedong, Fan, Hao, Rajmohan, Saravan, Lin, Qingwei, Zhang, Dongmei.
 
-### *Software Quality Assurance*
+### :large_orange_diamond: *Software Quality Assurance*
 + **A Multi-Agent Approach for REST API Testing with Semantic Graphs and LLM-Driven Inputs** (2025), ICSE, Kim, Myeongsoo and Stennett, Tyler and Sinha, Saurabh and Orso, Alessandro.
 + **A class integration test order generation approach based on Sarsa algorithm** (2024), ASEJ, Li, Yun Zhang, Yanmei Ding, Yanru Jiang, Shujuan Yuan, Guan.
 + **A comparison of reinforcement learning frameworks for software testing tasks** (2023), EMSE, Mindom, Paulina Stevia Nouwou Nikanjam, Amin Khomh, Foutse.
@@ -133,5 +133,5 @@ This repository accompanies our recent work, "Reinforcement Learning Meets Softw
 + **Using reinforcement learning for load testing of video games** (2022), ICSE, Tufano, Rosalia, Scalabrino, Simone, Pascarella, Luca, Aghajani, Emad, Oliveto, Rocco, Bavota, Gabriele.
 + **Wuji: Automatic Online Combat Game Testing Using Evolutionary Deep Reinforcement Learning** (2019), ASE, Zheng, Yan, Xie, Xiaofei, Su, Ting, Ma, Lei, Hao, Jianye, Meng, Zhaopeng, Liu, Yang, Shen, Ruimin, Chen, Yingfeng, Fan, Changjie.
 
-### *Software Quality Assurance + Software Management*
+### :large_orange_diamond: *Software Quality Assurance + Software Management*
 + **Harnessing pre-trained generalist agents for software engineering tasks** (2025), EMSE, Mindom, Paulina Stevia Nouwou Nikanjam, Amin Khomh, Foutse.
