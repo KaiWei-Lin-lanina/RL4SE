@@ -20,7 +20,7 @@ This repository accompanies our recent work, "Reinforcement Learning Meets Softw
 + **FaaSConf: QoS-aware Hybrid Resources Configuration for Serverless Workflows** (2024), ASE, Wang, Yilun, Chen, Pengfei, Dou, Hui, Zhang, Yiwen, Yu, Guangba, He, Zilong, Huang, Haiyu.
 + **Proactive hybrid learning and optimisation in self-adaptive systems: The swarm-fleet infrastructure scenario** (2022), IST, Krupitzer, Christian Gruhl, Christian Sick, Bernhard Tomforde, Sven.
 
-### :large_orange_diamond: *Software Development*
+### :large_orange_diamond:*Software Development*
 + **Automatic web content personalization through reinforcement learning** (2016), JSS, Ferretti, Stefano Mirri, Silvia Prandi, Catia Salomoni, Paola.
 + **Deep Reinforcement Learning Guided Decision Tree Learning For Program Synthesis** (2023), SANER, M. Yang; D. Zhang.
 + **Dialogue Management for Interactive API Search** (2021), ICSME, Z. Eberhart; C. McMillan.
