@@ -48,7 +48,7 @@ This repository accompanies our recent work, "Reinforcement Learning Meets Softw
 + **Towards Efficient Fine-Tuning of Language Models With Organizational Data for Automated Software Review** (2024), TSE, Nashaat, Mona Miller, James.
 + **TraceDiag: Adaptive, Interpretable, and Efficient Root Cause Analysis on Large-Scale Microservice Systems** (2023), FSE, Ding, Ruomeng, Zhang, Chaoyun, Wang, Lu, Xu, Yong, Ma, Minghua, Wu, Xiaomin, Zhang, Meng, Chen, Qingjun, Gao, Xin, Gao, Xuedong, Fan, Hao, Rajmohan, Saravan, Lin, Qingwei, Zhang, Dongmei.
 
-### :large_orange_diamond: *Software Quality Assurance*
+### *Software Quality Assurance*
 + **A Multi-Agent Approach for REST API Testing with Semantic Graphs and LLM-Driven Inputs** (2025), ICSE, Kim, Myeongsoo and Stennett, Tyler and Sinha, Saurabh and Orso, Alessandro.
 + **A class integration test order generation approach based on Sarsa algorithm** (2024), ASEJ, Li, Yun Zhang, Yanmei Ding, Yanru Jiang, Shujuan Yuan, Guan.
 + **A comparison of reinforcement learning frameworks for software testing tasks** (2023), EMSE, Mindom, Paulina Stevia Nouwou Nikanjam, Amin Khomh, Foutse.
