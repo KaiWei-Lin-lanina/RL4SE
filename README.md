@@ -11,7 +11,7 @@ This repository accompanies our recent work, "Reinforcement Learning Meets Softw
 - [Software Quality Assurance + Software Management](#software-quality-assurance--software-management)
 
 ## Papers
-### :large_orange_diamond: *Software Design*
+### *Software Design*
 + **Actor-critic architecture based probabilistic meta-reinforcement learning for load balancing of controllers in software defined networks** (2022), ASEJ, Sharma, Ashish Tokekar, Sanjiv Varma, Sunita.
 + **Correctness-guaranteed strategy synthesis and compression for multi-agent autonomous systems** (2022), SCP, Gu, Rong Jensen, Peter G. Seceleanu, Cristina Enoiu, Eduard Lundqvist, Kristina.
 + **Effectively Modeling UI Transition Graphs for Android Apps via Reinforcement Learning** (2025), ICPC, Wunan Guo, Zhen Dong, Liwei Shen, Daihong Zhou, Bin Hu, Chen Zhang, Hai Xue.
