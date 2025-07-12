@@ -13,7 +13,7 @@ This repository accompanies from our recent work, "A Survey of Reinforcement Lea
 ### *Software Design*
 + **Actor-critic architecture based probabilistic meta-reinforcement learning for load balancing of controllers in software defined networks** (2022), ASEJ, Sharma, Ashish Tokekar, Sanjiv Varma, Sunita.
 + **Correctness-guaranteed strategy synthesis and compression for multi-agent autonomous systems** (2022), SCP, Gu, Rong Jensen, Peter G. Seceleanu, Cristina Enoiu, Eduard Lundqvist, Kristina.
-+ **Effectively Modeling UI Transition Graphs for Android Apps via Reinforcement Learning** (2025), icpc, Wunan Guo, Zhen Dong, Liwei Shen, Daihong Zhou, Bin Hu, Chen Zhang, Hai Xue.
++ **Effectively Modeling UI Transition Graphs for Android Apps via Reinforcement Learning** (2025), ICPC, Wunan Guo, Zhen Dong, Liwei Shen, Daihong Zhou, Bin Hu, Chen Zhang, Hai Xue.
 + **Efficient deep-reinforcement learning aware resource allocation in SDN-enabled fog paradigm** (2022), ASEJ, Lakhan, Abdullah Mohammed, Mazin Abed Obaid, Omar Ibrahim Chakraborty, Chinmay Abdulkareem, Karrar Hameed Kadry, Seifedine.
 + **Energy efficient resource allocation based on virtual network embedding for IoT data generation** (2024), ASEJ, Tan, Lizhuang Aldweesh, Amjad Chen, Ning Wang, Jian Zhang, Jianyong Zhang, Yi Kostromitin, Konstantin Igorevich Zhang, Peiying.
 + **FaaSConf: QoS-aware Hybrid Resources Configuration for Serverless Workflows** (2024), ASE, Wang, Yilun, Chen, Pengfei, Dou, Hui, Zhang, Yiwen, Yu, Guangba, He, Zilong, Huang, Haiyu.
@@ -27,8 +27,8 @@ This repository accompanies from our recent work, "A Survey of Reinforcement Lea
 + **Improving automatic source code summarization via deep reinforcement learning** (2018), ASE, Wan, Yao, Zhao, Zhou, Yang, Min, Xu, Guandong, Ying, Haochao, Wu, Jian, Yu, Philip S..
 + **Machine translation-based fine-grained comments generation for solidity smart contracts** (2023), IST, Shi, Chaochen Xiang, Yong Yu, Jiangshan Sood, Keshav Gao, Longxiang.
 + **Preference-Guided Refactored Tuning for Retrieval Augmented Code Generation** (2024), ASE, Gao, Xinyu, Xiong, Yun, Wang, Deze, Guan, Zhenhan, Shi, Zejian, Wang, Haofen, Li, Shanshan.
-+ **Quarl: A Learning-Based Quantum Circuit Optimizer** (2024), oopsla, Li, Zikun, Peng, Jinjun, Mei, Yixuan, Lin, Sina, Wu, Yi, Padon, Oded, Jia, Zhihao.
-+ **RLCoder: Reinforcement Learning for Repository-Level Code Completion** (2025), icse, Wang, Yanlin and Wang, Yanli and Guo, Daya and Chen, Jiachi and Zhang, Ruikai and Ma, Yuchi and Zheng, Zibin.
++ **Quarl: A Learning-Based Quantum Circuit Optimizer** (2024), OOPSLA, Li, Zikun, Peng, Jinjun, Mei, Yixuan, Lin, Sina, Wu, Yi, Padon, Oded, Jia, Zhihao.
++ **RLCoder: Reinforcement Learning for Repository-Level Code Completion** (2025), ICSE, Wang, Yanlin and Wang, Yanli and Guo, Daya and Chen, Jiachi and Zhang, Ruikai and Ma, Yuchi and Zheng, Zibin.
 + **Reinforcement-Learning-Guided Source Code Summarization Using Hierarchical Attention** (2022), TSE, Wang, Wenhua Zhang, Yuqun Sui, Yulei Wan, Yao Zhao, Zhou Wu, Jian Yu, Philip S. Xu, Guandong.
 + **ScaRLib: Towards a hybrid toolchain for aggregate computing and many-agent reinforcement learning** (2024), SCP, Domini, D. Cavallari, F. Aguzzi, G. Viroli, M..
 + **Stochastic energy optimization for mobile GPS applications** (2018), FSE, Canino, Anthony, Liu, Yu David, Masuhara, Hidehiko.
@@ -48,7 +48,7 @@ This repository accompanies from our recent work, "A Survey of Reinforcement Lea
 + **TraceDiag: Adaptive, Interpretable, and Efficient Root Cause Analysis on Large-Scale Microservice Systems** (2023), FSE, Ding, Ruomeng, Zhang, Chaoyun, Wang, Lu, Xu, Yong, Ma, Minghua, Wu, Xiaomin, Zhang, Meng, Chen, Qingjun, Gao, Xin, Gao, Xuedong, Fan, Hao, Rajmohan, Saravan, Lin, Qingwei, Zhang, Dongmei.
 
 ### *Software Quality Assurance*
-+ **A Multi-Agent Approach for REST API Testing with Semantic Graphs and LLM-Driven Inputs** (2025), icse, Kim, Myeongsoo and Stennett, Tyler and Sinha, Saurabh and Orso, Alessandro.
++ **A Multi-Agent Approach for REST API Testing with Semantic Graphs and LLM-Driven Inputs** (2025), ICSE, Kim, Myeongsoo and Stennett, Tyler and Sinha, Saurabh and Orso, Alessandro.
 + **A class integration test order generation approach based on Sarsa algorithm** (2024), ASEJ, Li, Yun Zhang, Yanmei Ding, Yanru Jiang, Shujuan Yuan, Guan.
 + **A comparison of reinforcement learning frameworks for software testing tasks** (2023), EMSE, Mindom, Paulina Stevia Nouwou Nikanjam, Amin Khomh, Foutse.
 + **A systematic study of reward for reinforcement learning based continuous integration testing** (2020), JSS, Yang, Yang Li, Zheng He, Liuliu Zhao, Ruilian.
@@ -60,7 +60,7 @@ This repository accompanies from our recent work, "A Survey of Reinforcement Lea
 + **An autonomous performance testing framework using self-adaptive fuzzy reinforcement learning** (2022), sqj, Moghadam, Mahshid Helali Saadatmand, Mehrdad Borg, Markus Bohlin, Markus Lisper, Bjorn.
 + **Automatic Web Testing Using Curiosity-Driven Reinforcement Learning** (2021), ICSE, Zheng, Yan, Liu, Yi, Xie, Xiaofei, Liu, Yepang, Ma, Lei, Hao, Jianye, Liu, Yang.
 + **Automatically inferring user behavior models in large-scale web applications** (2022), IST, Ghaemmaghami, Saeedeh Sadat Sajjadi Emam, Seyedeh Sepideh Miller, James.
-+ **Badge: Prioritizing UI Events with Hierarchical Multi-Armed Bandits for Automated UI Testing** (2023), icse, Ran, Dezhi, Wang, Hao, Wang, Wenyu, Xie, Tao.
++ **Badge: Prioritizing UI Events with Hierarchical Multi-Armed Bandits for Automated UI Testing** (2023), ICSE, Ran, Dezhi, Wang, Hao, Wang, Wenyu, Xie, Tao.
 + **Boosting input data sequences generation for testing EFSM-specified systems using deep reinforcement learning** (2023), IST, Shu, Ting Wu, Cuiping Ding, Zuohua.
 + **CARL: Unsupervised Code-Based Adversarial Attacks for Programming Language Models via Reinforcement Learning** (2025), TOSEM, Yao, Kaich un Wang, Hao Qin, Chuan Zh, Hengshu Wu, Yanjun Zhang, Libo.
 + **Can Cooperative Multi-Agent Reinforcement Learning Boost Automatic Web Testing? An Exploratory Study** (2024), ASE, Fan, Yujia, Wang, Sinan, Fei, Zebang, Qin, Yao, Li, Huaxuan, Liu, Yepang.
@@ -78,13 +78,13 @@ This repository accompanies from our recent work, "A Survey of Reinforcement Lea
 + **Efficient state synchronisation in model-based testing through reinforcement learning** (2022), ASE, T\"{u}rker, Uraz Cengiz, Hierons, Robert M., Mousavi, Mohammad Reza, Tyukin, Ivan Y..
 + **End-to-End RPA-Like Testing Using Reinforcement Learning** (2024), ICST, C. Păduraru; R. Cristea; A. Stefanescu.
 + **Enhanced compiler bug isolation via memoized search** (2021), ASE, Chen, Junjie, Ma, Haoyang, Zhang, Lingming.
-+ **Exploiting deep reinforcement learning and metamorphic testing to automatically test virtual reality applications** (2023), stvr, de Andrade, Stevao Alves Nunes, Fatima L. S. Delamaro, Marcio Eduardo.
-+ **Exploration-Driven Reinforcement Learning for Avionic System Fault Detection (Experience Paper)** (2024), issta, Le Tolguenec, Paul-Antoine, Rachelson, Emmanuel, Besse, Yann, Teichteil-Koenigsbuch, Florent, Schneider, Nicolas, Waeselynck, H\'{e}l\`{e}ne, Wilson, Dennis.
++ **Exploiting deep reinforcement learning and metamorphic testing to automatically test virtual reality applications** (2023), STVR, de Andrade, Stevao Alves Nunes, Fatima L. S. Delamaro, Marcio Eduardo.
++ **Exploration-Driven Reinforcement Learning for Avionic System Fault Detection (Experience Paper)** (2024), ISSTA, Le Tolguenec, Paul-Antoine, Rachelson, Emmanuel, Besse, Yann, Teichteil-Koenigsbuch, Florent, Schneider, Nicolas, Waeselynck, H\'{e}l\`{e}ne, Wilson, Dennis.
 + **FIGCPS: effective failure-inducing input generation for cyber-physical systems with deep reinforcement learning** (2022), ASE, Zhang, Shaohua, Liu, Shuang, Sun, Jun, Chen, Yuqi, Huang, Wenzhi, Liu, Jinyi, Liu, Jian, Hao, Jianye.
 + **Falsification of Cyber-Physical Systems Using Deep Reinforcement Learning** (2021), TSE, Yamagata, Yoriyuki Liu, Shuang Akazaki, Takumi Duan, Yihai Hao, Jianye.
 + **Functional test generation from UI test scenarios using reinforcement learning for android applications** (2021), STVR, Koroglu, Yavuz Sen, Alper.
 + **Fuzzing JavaScript Interpreters with Coverage-Guided Reinforcement Learning for LLM-Based Mutation** (2024), ISSTA, Eom, Jueon, Jeong, Seyeon, Kwon, Taekyoung.
-+ **GARL: Genetic Algorithm-Augmented Reinforcement Learning to Detect Violations in Marker-Based Autonomous Landing Systems** (2025), icse, Liang, Linfeng and Deng, Yao and Morton, Kye and Kallinen, Valtteri and James, Alice and Seth, Avishkar and Kuantama, Endrowednes and Mukhopadhyay, Subhas and Han, Richard and Zheng, Xi.
++ **GARL: Genetic Algorithm-Augmented Reinforcement Learning to Detect Violations in Marker-Based Autonomous Landing Systems** (2025), ICSE, Liang, Linfeng and Deng, Yao and Morton, Kye and Kallinen, Valtteri and James, Alice and Seth, Avishkar and Kuantama, Endrowednes and Mukhopadhyay, Subhas and Han, Richard and Zheng, Xi.
 + **Generation-based Differential Fuzzing for Deep Learning Libraries** (2024), tosem, Liu, Jiawei Huang, Yuheng Wang, Zhijie Ma, Lei Fang, Chunrong Gu, Mingzheng Zhang, Xufan Chen, Zhenyu.
 + **How Android Apps Break the Data Minimization Principle: An Empirical Study** (2024), ASE, Zhang, Shaokun, Lei, Hanwen, Wang, Yuanpeng, Li, Ding, Guo, Yao, Chen, Xiangqun.
 + **IFRIT: Focused Testing through Deep Reinforcement Learning** (2022), ICST, A. Romdhana; M. Ceccato; A. Merlo; P. Tonella.
@@ -98,20 +98,20 @@ This repository accompanies from our recent work, "A Survey of Reinforcement Lea
 + **Learning how to search: generating effective test cases through adaptive fitness function selection** (2022), EMSE, Almulla, Hussein Gay, Gregory.
 + **Learning to Synthesize Relational Invariants** (2023), ASE, Wang, Jingbo, Wang, Chao.
 + **Learning user interface element interactions** (2019), ISSTA, Degott, Christian, Borges Jr., Nataniel P., Zeller, Andreas.
-+ **Learning-based controlled concurrency testing** (2020), oopsla, Mukherjee, Suvam, Deligiannis, Pantazis, Biswas, Arpita, Lal, Akash.
++ **Learning-based controlled concurrency testing** (2020), OOPSLA, Mukherjee, Suvam, Deligiannis, Pantazis, Biswas, Arpita, Lal, Akash.
 + **Learning-to-rank vs ranking-to-learn: strategies for regression testing in continuous integration** (2020), ICSE, Bertolino, Antonia, Guerriero, Antonio, Miranda, Breno, Pietrantuono, Roberto, Russo, Stefano.
 + **Loop Invariant Inference through SMT Solving Enhanced Reinforcement Learning** (2023), ISSTA, Yu, Shiwen, Wang, Ting, Wang, Ji.
 + **MACS: Multi-Agent Adversarial Reinforcement Learning for Finding Diverse Critical Driving Scenarios** (2024), ICST, S. Kang; Q. Dong; Y. Xue; W. Yanjun.
 + **Many-Objective Reinforcement Learning for Online Testing of DNN-Enabled Systems** (2023), ICSE, Haq, Fitash Ul, Shin, Donghwan, Briand, Lionel C..
-+ **Mecha: A Neural-Symbolic Open-Set Homogeneous Decision Fusion Approach for Zero-Day Malware Similarity Detection** (2025), tse, Molloy, Christopher Banks, Jeremy Ding, Steven H. H. Alaca, Furkan Charland, Philippe Walenstein, Andrew.
++ **Mecha: A Neural-Symbolic Open-Set Homogeneous Decision Fusion Approach for Zero-Day Malware Similarity Detection** (2025), Tse, Molloy, Christopher Banks, Jeremy Ding, Steven H. H. Alaca, Furkan Charland, Philippe Walenstein, Andrew.
 + **Multiple Targets Directed Greybox Fuzzing: From Reachable to Exploited** (2024), SANER, X. Yu; H. Liang; C. Wang.
-+ **Optimizing Class Integration Testing with Criticality-Driven Test Order Generation** (2025), saner, Ding, Yanru and Zhang, Yanmei and Yuan, Guan and Jiang, Shujuan and Dai, Wei and Baresi, Luciano.
++ **Optimizing Class Integration Testing with Criticality-Driven Test Order Generation** (2025), Saner, Ding, Yanru and Zhang, Yanmei and Yuan, Guan and Jiang, Shujuan and Dai, Wei and Baresi, Luciano.
 + **ProRLearn: boosting prompt tuning-based vulnerability detection by reinforcement learning** (2024), ASEJ, Ren, Zilong Ju, Xiaolin Chen, Xiang Shen, Hao.
 + **PySE: Automatic Worst-Case Test Generation by Reinforcement Learning** (2019), ICST, J. Koo; C. Saumya; M. Kulkarni; S. Bagchi.
 + **Pytester: Deep reinforcement learning for text-to-testcase generation** (2025), JSS, Takerngsaksiri, Wannita Charakorn, Rujikorn Tantithamthavorn, Chakkrit Li, Yuan-Fang.
 + **QBE: QLearning-Based Exploration of Android Applications** (2018), ICST, Y. Koroglu; A. Sen; O. Muslu; Y. Mete; C. Ulker; T. Tanriverdi; Y. Donmez.
-+ **QEDCartographer: Automating Formal Verification Using Reward-Free Reinforcement Learning** (2025), icse, Sanchez-Stern, Alex and Varghese, Abhishek  and Zhanna Kaufman, Zhanna and Zhang, Dylan and Ringer, Talia and Brun, Yuriy.
-+ **QExplore: An exploration strategy for dynamic web applications using guided search** (2023), jss, Sherin, Salman Muqeet, Asmar Khan, Muhammad Uzair Iqbal, Muhammad Zohaib.
++ **QEDCartographer: Automating Formal Verification Using Reward-Free Reinforcement Learning** (2025), ICSE, Sanchez-Stern, Alex and Varghese, Abhishek  and Zhanna Kaufman, Zhanna and Zhang, Dylan and Ringer, Talia and Brun, Yuriy.
++ **QExplore: An exploration strategy for dynamic web applications using guided search** (2023), JSS, Sherin, Salman Muqeet, Asmar Khan, Muhammad Uzair Iqbal, Muhammad Zohaib.
 + **Quickly generating diverse valid test inputs with reinforcement learning** (2020), ICSE, Reddy, Sameer, Lemieux, Caroline, Padhye, Rohan, Sen, Koushik.
 + **REINAM: reinforcement learning for input-grammar inference** (2019), FSE, Wu, Zhengkai, Johnson, Evan, Yang, Wei, Bastani, Osbert, Song, Dawn, Peng, Jian, Xie, Tao.
 + **RLTCP: A reinforcement learning approach to prioritizing automated user interface tests** (2021), IST, Nguyen, Vu Le, Bach.
