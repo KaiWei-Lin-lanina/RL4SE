@@ -58,7 +58,7 @@ This repository accompanies our recent work, "Reinforcement Learning Meets Softw
 + **Adaptive metamorphic testing with contextual bandits** (2020), JSS, Spieker, Helge Gotlieb, Arnaud.
 + **Adversarial Testing with Reinforcement Learning: A Case Study on Autonomous Driving** (2024), ICST, A. Doreste; M. Biagiola; P. Tonella.
 + **AimDroid: Activity-Insulated Multi-level Automated Testing for Android Applications** (2017), ICSME, T. Gu; C. Cao; T. Liu; C. Sun; J. Deng; X. Ma; J. Lü.
-+ **An autonomous performance testing framework using self-adaptive fuzzy reinforcement learning** (2022), sqj, Moghadam, Mahshid Helali Saadatmand, Mehrdad Borg, Markus Bohlin, Markus Lisper, Bjorn.
++ **An autonomous performance testing framework using self-adaptive fuzzy reinforcement learning** (2022), SQJ, Moghadam, Mahshid Helali Saadatmand, Mehrdad Borg, Markus Bohlin, Markus Lisper, Bjorn.
 + **Automatic Web Testing Using Curiosity-Driven Reinforcement Learning** (2021), ICSE, Zheng, Yan, Liu, Yi, Xie, Xiaofei, Liu, Yepang, Ma, Lei, Hao, Jianye, Liu, Yang.
 + **Automatically inferring user behavior models in large-scale web applications** (2022), IST, Ghaemmaghami, Saeedeh Sadat Sajjadi Emam, Seyedeh Sepideh Miller, James.
 + **Badge: Prioritizing UI Events with Hierarchical Multi-Armed Bandits for Automated UI Testing** (2023), ICSE, Ran, Dezhi, Wang, Hao, Wang, Wenyu, Xie, Tao.
@@ -86,7 +86,7 @@ This repository accompanies our recent work, "Reinforcement Learning Meets Softw
 + **Functional test generation from UI test scenarios using reinforcement learning for android applications** (2021), STVR, Koroglu, Yavuz Sen, Alper.
 + **Fuzzing JavaScript Interpreters with Coverage-Guided Reinforcement Learning for LLM-Based Mutation** (2024), ISSTA, Eom, Jueon, Jeong, Seyeon, Kwon, Taekyoung.
 + **GARL: Genetic Algorithm-Augmented Reinforcement Learning to Detect Violations in Marker-Based Autonomous Landing Systems** (2025), ICSE, Liang, Linfeng and Deng, Yao and Morton, Kye and Kallinen, Valtteri and James, Alice and Seth, Avishkar and Kuantama, Endrowednes and Mukhopadhyay, Subhas and Han, Richard and Zheng, Xi.
-+ **Generation-based Differential Fuzzing for Deep Learning Libraries** (2024), tosem, Liu, Jiawei Huang, Yuheng Wang, Zhijie Ma, Lei Fang, Chunrong Gu, Mingzheng Zhang, Xufan Chen, Zhenyu.
++ **Generation-based Differential Fuzzing for Deep Learning Libraries** (2024), TOSEM, Liu, Jiawei Huang, Yuheng Wang, Zhijie Ma, Lei Fang, Chunrong Gu, Mingzheng Zhang, Xufan Chen, Zhenyu.
 + **How Android Apps Break the Data Minimization Principle: An Empirical Study** (2024), ASE, Zhang, Shaokun, Lei, Hanwen, Wang, Yuanpeng, Li, Ding, Guo, Yao, Chen, Xiangqun.
 + **IFRIT: Focused Testing through Deep Reinforcement Learning** (2022), ICST, A. Romdhana; M. Ceccato; A. Merlo; P. Tonella.
 + **Inferring Extended Probabilistic Finite-State Automaton Models from Software Executions** (2018), TOSEM, Emam, S. S. Miller, J..
@@ -104,9 +104,9 @@ This repository accompanies our recent work, "Reinforcement Learning Meets Softw
 + **Loop Invariant Inference through SMT Solving Enhanced Reinforcement Learning** (2023), ISSTA, Yu, Shiwen, Wang, Ting, Wang, Ji.
 + **MACS: Multi-Agent Adversarial Reinforcement Learning for Finding Diverse Critical Driving Scenarios** (2024), ICST, S. Kang; Q. Dong; Y. Xue; W. Yanjun.
 + **Many-Objective Reinforcement Learning for Online Testing of DNN-Enabled Systems** (2023), ICSE, Haq, Fitash Ul, Shin, Donghwan, Briand, Lionel C..
-+ **Mecha: A Neural-Symbolic Open-Set Homogeneous Decision Fusion Approach for Zero-Day Malware Similarity Detection** (2025), Tse, Molloy, Christopher Banks, Jeremy Ding, Steven H. H. Alaca, Furkan Charland, Philippe Walenstein, Andrew.
++ **Mecha: A Neural-Symbolic Open-Set Homogeneous Decision Fusion Approach for Zero-Day Malware Similarity Detection** (2025), TSE, Molloy, Christopher Banks, Jeremy Ding, Steven H. H. Alaca, Furkan Charland, Philippe Walenstein, Andrew.
 + **Multiple Targets Directed Greybox Fuzzing: From Reachable to Exploited** (2024), SANER, X. Yu; H. Liang; C. Wang.
-+ **Optimizing Class Integration Testing with Criticality-Driven Test Order Generation** (2025), Saner, Ding, Yanru and Zhang, Yanmei and Yuan, Guan and Jiang, Shujuan and Dai, Wei and Baresi, Luciano.
++ **Optimizing Class Integration Testing with Criticality-Driven Test Order Generation** (2025), SANER, Ding, Yanru and Zhang, Yanmei and Yuan, Guan and Jiang, Shujuan and Dai, Wei and Baresi, Luciano.
 + **ProRLearn: boosting prompt tuning-based vulnerability detection by reinforcement learning** (2024), ASEJ, Ren, Zilong Ju, Xiaolin Chen, Xiang Shen, Hao.
 + **PySE: Automatic Worst-Case Test Generation by Reinforcement Learning** (2019), ICST, J. Koo; C. Saumya; M. Kulkarni; S. Bagchi.
 + **Pytester: Deep reinforcement learning for text-to-testcase generation** (2025), JSS, Takerngsaksiri, Wannita Charakorn, Rujikorn Tantithamthavorn, Chakkrit Li, Yuan-Fang.
